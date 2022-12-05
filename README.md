@@ -1,2 +1,2 @@
 # Black-Jack-Game
-Built With Html,Css and Javascript
+A card game built With Html,Css and Javascript
